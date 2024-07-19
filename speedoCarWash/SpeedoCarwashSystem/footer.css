@@ -1,0 +1,19 @@
+ .hr{
+    width: 90%;
+    border-bottom: 2px solid #ccc;
+    margin: 20px auto;
+ }
+foot a:hover{ 
+    text-decoration: none;
+    background-color: white;
+    
+    /* new addition */
+ }
+ a:active{
+    color:blue;
+ }
+
+ a{
+    color: white;
+    
+ }
